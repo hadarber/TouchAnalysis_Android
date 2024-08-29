@@ -146,6 +146,5 @@ I hope you find the User Analysis Library useful for gaining insights into user 
 
 Check out this short demo of our app:
 
-[![Watch the video](https://img.youtube.com/vi/CtvWyOuB4B4/maxresdefault.jpg)](https://youtube.com/shorts/CtvWyOuB4B4?si=g9bzy0BLI_6GC_xR)
-
+[צפה בסרטון ההדגמה](https://drive.google.com/file/d/1lQ3_jZxcVoMA-lzghoIC_MPFOxovb2n8/view?usp=sharing)
 This video showcases the main features of our drawing and analysis tool.
