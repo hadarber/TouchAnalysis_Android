@@ -134,14 +134,12 @@ The fun analysis pop-up
 
 I welcome contributions to improve the User Analysis Library! Please feel free to submit issues, fork the repository and send pull requests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
----
-
-I hope you find the User Analysis Library useful for gaining insights into user behavior in your Android applications. If you have any questions or feedback, please don't hesitate to reach out!
-
 ## Demo Video
 
 Check out this short demo of our app:
 [צפה בסרטון ההדגמה](https://drive.google.com/file/d/1lQ3_jZxcVoMA-lzghoIC_MPFOxovb2n8/view?usp=sharing)
+
+---
+
+I hope you find the User Analysis Library useful for gaining insights into user behavior in your Android applications. If you have any questions or feedback, please don't hesitate to reach out!
+
