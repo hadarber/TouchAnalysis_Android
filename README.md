@@ -113,16 +113,14 @@ This service runs in the background to collect and process user interaction data
 
 ## Screenshots
 
-1. The main drawing interface
-   ![Screenshot_20240829_114639](https://github.com/user-attachments/assets/8a8d283b-df04-4321-8f4b-3a4d81c2890a)
-2. The heat map visualization
-   ![Screenshot_20240829_115116](https://github.com/user-attachments/assets/4b03f165-a78c-4ee3-8b7f-815e4f8ca129)
-
-3. The bar chart visualization 
-   ![Screenshot_20240829_114850](https://github.com/user-attachments/assets/f6c72837-1b45-424d-8ccb-34c9ea3463aa)
-
-4. The fun analysis pop-up
-   ![Screenshot_20240829_114833](https://github.com/user-attachments/assets/42ea7158-8a28-4a51-bda8-e36c3dcc15af)
+The main drawing interface
+<img src="https://github.com/user-attachments/assets/8a8d283b-df04-4321-8f4b-3a4d81c2890a" width="300" alt="Main drawing interface">
+The heat map visualization
+<img src="https://github.com/user-attachments/assets/4b03f165-a78c-4ee3-8b7f-815e4f8ca129" width="300" alt="Heat map visualization">
+The bar chart visualization
+<img src="https://github.com/user-attachments/assets/f6c72837-1b45-424d-8ccb-34c9ea3463aa" width="300" alt="Bar chart visualization">
+The fun analysis pop-up
+<img src="https://github.com/user-attachments/assets/42ea7158-8a28-4a51-bda8-e36c3dcc15af" width="300" alt="Fun analysis pop-up">
 
 
 ## Contributing
