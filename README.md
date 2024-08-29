@@ -141,3 +141,11 @@ I welcome contributions to improve the User Analysis Library! Please feel free t
 ---
 
 I hope you find the User Analysis Library useful for gaining insights into user behavior in your Android applications. If you have any questions or feedback, please don't hesitate to reach out!
+
+## Demo Video
+
+Check out this short demo of our app:
+
+[![Watch the video](https://img.youtube.com/vi/CtvWyOuB4B4/maxresdefault.jpg)](https://youtube.com/shorts/CtvWyOuB4B4?si=g9bzy0BLI_6GC_xR)
+
+This video showcases the main features of our drawing and analysis tool.
