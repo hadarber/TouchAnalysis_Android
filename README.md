@@ -136,8 +136,7 @@ I welcome contributions to improve the User Analysis Library! Please feel free t
 
 ## License
 
-[Insert your chosen license here]
-
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 ---
 
 I hope you find the User Analysis Library useful for gaining insights into user behavior in your Android applications. If you have any questions or feedback, please don't hesitate to reach out!
